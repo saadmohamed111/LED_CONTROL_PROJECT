@@ -1,14 +1,3 @@
- /******************************************************************************
- *
- * Module: Common - Platform
- *
- * File Name: Std_Types.h
- *
- * Description: General type definitions
- *
- * Author: Mohamed Tarek
- *
- *******************************************************************************/
 
 #ifndef STD_TYPES_H
 #define STD_TYPES_H
