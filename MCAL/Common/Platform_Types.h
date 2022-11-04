@@ -1,14 +1,4 @@
- /******************************************************************************
- *
- * Module: Common - Platform Abstraction
- *
- * File Name: Platform_Types.h
- *
- * Description: Platform types for ARM Cortex-M4F
- *
- * Author: Mohamed Tarek
- *
- *******************************************************************************/
+
 
 #ifndef PLATFORM_TYPES_H
 #define PLATFORM_TYPES_H
