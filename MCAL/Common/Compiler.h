@@ -4,11 +4,6 @@
  *
  * File Name: Compiler.h
  *
- * Description:  This file contains the definitions and macros specified by
- *               AUTOSAR for the abstraction of compiler specific keywords.
- *
- * Author: Mohamed Tarek
- *
  *******************************************************************************/
 
 #ifndef COMPILER_H
